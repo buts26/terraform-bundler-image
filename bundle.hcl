@@ -1,5 +1,5 @@
 terraform {
-  version = "0.12.20"
+  version = "0.12.21"
 }
 
 # Define which provider plugins are to be included
