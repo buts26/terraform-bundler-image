@@ -1,4 +1,4 @@
-FROM hashicorp/terraform:full AS tf-full
+FROM hashicorp/terraform AS tf-full
 WORKDIR /go/src/github.com/hashicorp/terraform/tools/terraform-bundle
 RUN go build
 
