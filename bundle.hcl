@@ -7,7 +7,6 @@ providers {
   oci = ["~> 3.62"]
   chef = ["~> 0.2"]
   vault = ["~> 2.8"]
-  null = ["~> 2.1"]
   postgresql = ["~> 1.4"]
   random = ["~> 2.2"]
   vsphere = ["~> 2.2"]
