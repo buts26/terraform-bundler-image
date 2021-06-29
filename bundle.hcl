@@ -10,4 +10,5 @@ providers {
   null = ["~> 2.1"]
   postgresql = ["~> 1.4"]
   random = ["~> 2.2"]
+  vsphere = ["~> 2.2"]
 }
